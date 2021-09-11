@@ -1,4 +1,4 @@
-package uni
+package models
 
 type Universities struct {
 	UniveristyID int
