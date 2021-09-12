@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"net/http"
-	"github.com/milinches/nigeria-universities/controllers"
+	"github.com/milinches/nigeria-universities-api/controllers"
 )
 
 func api(w http.ResponseWriter, r *http.Request) {
