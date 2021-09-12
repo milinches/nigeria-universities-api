@@ -22,5 +22,7 @@ func GetUniversities(w http.ResponseWriter, r *http.Request){
 	}
 
 	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(Uni())
+	for _, universities := range Uni() {
+		json.NewEncoder(w).Encode(universities)
+	}
 }
