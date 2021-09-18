@@ -26,5 +26,5 @@ func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 	}
-	w.Write([]byte("Sorry, this is not Available"))
+	w.Write([]byte("Sorry, endpoint not available 😴"))
 }
