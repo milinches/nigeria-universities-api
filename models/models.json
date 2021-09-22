@@ -1,0 +1,792 @@
+[
+    {
+        "name": "Abia State University, Uturu",
+        "abbreviation": "absu",
+        "websitelink": "https://abiastateuniversity.edu.ng/"
+    },
+    {
+        "name": "Achievers University, Owo",
+        "abbreviation": "auo",
+        "websitelink": "https://www.achievers.edu.ng/"
+    },
+    {
+        "name": "Adamawa State University",
+        "abbreviation": "adsu",
+        "websitelink": "https://adsu.edu.ng/"
+    },
+    {
+        "name": "Adekunle Ajasin University",
+        "abbreviation": "aaua",
+        "websitelink": "https://aaua.edu.ng/"
+    },
+    {
+        "name": "Adeleke University, Ede",
+        "abbreviation": "aue",
+        "websitelink": "https://adelekeuniversity.edu.ng/"
+    },
+    {
+        "name": "Admiralty University of Nigeria",
+        "abbreviation": "adun",
+        "websitelink": "https://adun.edu.ng/"
+    },
+    {
+        "name": "Afe Babalola University",
+        "abbreviation": "abuad",
+        "websitelink": "https://www.abuad.edu.ng/"
+    },
+    {
+        "name": "African Univeristy of Science and Technology",
+        "abbreviation": "aust",
+        "websitelink": "https://aust.edu.ng/"
+    },
+    {
+        "name": "Ahmadu Bello University, Zaria",
+        "abbreviation": "abuzaria",
+        "websitelink": "https://www.abu.edu.ng/"
+    },
+    {
+        "name": "Ajayi Crowther University",
+        "abbreviation": "acu",
+        "websitelink": "https://acu.edu.ng/"
+    },
+    {
+        "name": "Akwa Ibom State University",
+        "abbreviation": "aksu",
+        "websitelink": "https://aksu.edu.ng/newsite/"
+    },
+    {
+        "name": "Alex Ekwueme Federal University, Ndufu-Alike",
+        "abbreviation": "funai",
+        "websitelink": "https://funai.edu.ng/"
+    },
+    {
+        "name": "Al-Hikmah University",
+        "abbreviation": "hui",
+        "websitelink": "https://alhikmahuniversity.edu.ng/"
+    },
+    {
+        "name": "Al-Qalam University, Katsina",
+        "abbreviation": "auk",
+        "websitelink": "https://auk.edu.ng/"
+    },
+    {
+        "name": "Ambrose Alli University",
+        "abbreviation": "aau",
+        "websitelink": "https://www.aauekpoma.edu.ng/"
+    },
+    {
+        "name": "American University of Nigeria",
+        "abbreviation": "aun",
+        "websitelink": "https://www.aun.edu.ng/"
+    },
+    {
+        "name": "Anchor University, Lagos",
+        "abbreviation": "aul",
+        "websitelink": "https://aul.edu.ng/"
+    },
+    {
+        "name": "Arthur Jarvis University",
+        "abbreviation": "aju",
+        "websitelink": "https://arthurjarvisuniversity.edu.ng/"
+    },
+    {
+        "name": "Atiba University",
+        "abbreviation": "atu",
+        "websitelink": "https://www.atibauniversity.edu.ng/"
+    },
+    {
+        "name": "Augustine University",
+        "abbreviation": "aui",
+        "websitelink": "https://augustineuniversity.edu.ng/"
+    },
+    {
+        "name": "Babcock University",
+        "abbreviation": "bu",
+        "websitelink": "https://www.babcock.edu.ng/"
+    },
+    {
+        "name": "Bauchi State University",
+        "abbreviation": "basug",
+        "websitelink": "Bauchi State University"
+    },
+    {
+        "name": "Bayero University Kano",
+        "abbreviation": "buk",
+        "websitelink": "https://www.buk.edu.ng/"
+    },
+    {
+        "name": "Baze University",
+        "abbreviation": "baze",
+        "websitelink": "https://www.bazeuniversity.edu.ng/"
+    },
+    {
+        "name": "Bells University of Technology",
+        "abbreviation": "bellstech",
+        "websitelink": "https://www.bellsuniversity.edu.ng/"
+    },
+    {
+        "name": "Benson Idahosa University",
+        "abbreviation": "biu",
+        "websitelink": "https://www.biu.edu.ng/"
+    },
+    {
+        "name": "Benue State University",
+        "abbreviation": "bsum",
+        "websitelink": "https://www.bsum.edu.ng/"
+    },
+    {
+        "name": "Bingham University",
+        "abbreviation": "bu",
+        "websitelink": "https://binghamuni.edu.ng/v2/"
+    },
+    {
+        "name": "Borno State University",
+        "abbreviation": "bosu",
+        "websitelink": "https://bosu.edu.ng/"
+    },
+    {
+        "name": "Bowen University",
+        "abbreviation": "bowen",
+        "websitelink": "https://bowen.edu.ng/"
+    },
+    {
+        "name": "Caleb University",
+        "abbreviation": "cul",
+        "websitelink": "https://calebuniversity.edu.ng/"
+    },
+    {
+        "name": "Caritas Univeristy",
+        "abbreviation": "cua",
+        "websitelink": "https://www.caritasuni.edu.ng/"
+    },
+    {
+        "name": "Chrisland University",
+        "abbreviation": "chrislanf",
+        "websitelink": "https://www.chrislanduniversity.edu.ng/"
+    },
+    {
+        "name": "Christopher University",
+        "abbreviation": "unichris",
+        "websitelink": "https://christopheruniversity.edu.ng/"
+    },
+    {
+        "name": "Chukwuemeka Odumegwu Ojukwu University",
+        "abbreviation": "coou",
+        "websitelink": "https://coou.edu.ng/"
+    },
+    {
+        "name": "Clifford University",
+        "abbreviation": "clu",
+        "websitelink": "https://clifforduni.edu.ng/"
+    },
+    {
+        "name": "Coal City University",
+        "abbreviation": "ccu",
+        "websitelink": "https://ccu.edu.ng/"
+    },
+    {
+        "name": "Convenant University",
+        "abbreviation": "cu",
+        "websitelink": "https://www.covenantuniversity.edu.ng/"
+    },
+    {
+        "name": "Crawford University",
+        "abbreviation": "cru",
+        "websitelink": "http://crawforduniversity.edu.ng/crawford/"
+    },
+    {
+        "name": "Crescent University, Abeokuta",
+        "abbreviation": "cuab",
+        "websitelink": ""
+    },
+    {
+        "name": "Cross River University of Technology",
+        "abbreviation": "crutech",
+        "websitelink": "https://www.crutech.edu.ng/"
+    },
+    {
+        "name": "Crown Hill University",
+        "abbreviation": "chu",
+        "websitelink": "https://crownhilluniversity.edu.ng/"
+    },
+    {
+        "name": "Delta State University, Abraka",
+        "abbreviation": "delsu",
+        "websitelink": "https://www.delsu.edu.ng/"
+    },
+    {
+        "name": "Dominican University, Ibadan",
+        "abbreviation": "dui",
+        "websitelink": "https://dui.edu.ng/"
+    },
+    {
+        "name": "Eastern Palm University",
+        "abbreviation": "epu",
+        "websitelink": "https://epu.edu.ng/"
+    },
+    {
+        "name": "Ebonyi State University",
+        "abbreviation": "ebsu",
+        "websitelink": "https://ebsu.edu.ng/"
+    },
+    {
+        "name": "Edo State University, Iyamho",
+        "abbreviation": "edsu",
+        "websitelink": "https://www.edouniversity.edu.ng/"
+    },
+    {
+        "name": "Edwin Clark University",
+        "abbreviation": "ecu",
+        "websitelink": "http://edwinclarkuniversity.edu.ng/"
+    },
+    {
+        "name": "Ekiti State University, Ado Ekiti",
+        "abbreviation": "eksu",
+        "websitelink": "Ekiti State University, Ado Ekiti"
+    },
+    {
+        "name": "Eko University of Medical and Health Sciences",
+        "abbreviation": "ekounimed",
+        "websitelink": "https://ekounimed.edu.ng/"
+    },
+    {
+        "name": "Elizade University",
+        "abbreviation": "eui",
+        "websitelink": "https://www.elizadeuniversity.edu.ng/"
+    },
+    {
+        "name": "Enugu State University of Science and Technology",
+        "abbreviation": "esut",
+        "websitelink": ""
+    },
+    {
+        "name": "Evangel University, Akaeze",
+        "abbreviation": "eua",
+        "websitelink": "https://evangeluniversity.edu.ng/"
+    },
+    {
+        "name": "Federal University of Agriculture, Abeokuta",
+        "abbreviation": "funnab",
+        "websitelink": "https://unaab.edu.ng/"
+    },
+    {
+        "name": "Federal University of Petroleum Resources",
+        "abbreviation": "fupre",
+        "websitelink": "https://www.fupre.edu.ng/"
+    },
+    {
+        "name": "Federal University of Technology, Akure",
+        "abbreviation": "futa",
+        "websitelink": "https://www.futa.edu.ng/"
+    },
+    {
+        "name": "Federal University of Technology, Minna",
+        "abbreviation": "futminna",
+        "websitelink": "https://futminna.edu.ng/"
+    },
+    {
+        "name": "Federal University of Technology, Owerri",
+        "abbreviation": "futo",
+        "websitelink": "https://futo.edu.ng/"
+    },
+    {
+        "name": "Federal University, Birnin Kebbi",
+        "abbreviation": "fubk",
+        "websitelink": "https://fubk.edu.ng/"
+    },
+    {
+        "name": "Federal University, Dutse",
+        "abbreviation": "fud",
+        "websitelink": "https://fud.edu.ng/"
+    },
+    {
+        "name": "Federal University, Dutsin-Ma",
+        "abbreviation": "fudma",
+        "websitelink": "https://www.fudutsinma.edu.ng/Federal University, Gashua"
+    },
+    {
+        "name": "Federal University, Gashua",
+        "abbreviation": "fuga",
+        "websitelink": "https://www.fugashua.edu.ng/"
+    },
+    {
+        "name": "Federal University, Gusau",
+        "abbreviation": "fugus",
+        "websitelink": "https://www.fugusau.edu.ng/"
+    },
+    {
+        "name": "Federal University, Kashere",
+        "abbreviation": "fuk",
+        "websitelink": "http://fukashere.edu.ng/"
+    },
+    {
+        "name": "Federal University, Lafia",
+        "abbreviation": "fulafia",
+        "websitelink": "https://fulafia.edu.ng/"
+    },
+    {
+        "name": "Federal University, Lokoja",
+        "abbreviation": "fulokoja",
+        "websitelink": "https://www.fulokoja.edu.ng/"
+    },
+    {
+        "name": "Federal University, Otuoke",
+        "abbreviation": "fuotuoke",
+        "websitelink": "https://fuotuoke.edu.ng/"
+    },
+    {
+        "name": "Federal University, Oye-Ekiti",
+        "abbreviation": "fuoye",
+        "websitelink": "https://fuoye.edu.ng/"
+    },
+    {
+        "name": "Federal University, Wukari",
+        "abbreviation": "fuwukari",
+        "websitelink": "https://fuwukari.edu.ng/"
+    },
+    {
+        "name": "Fountain University, Osogbo",
+        "abbreviation": "fuo",
+        "websitelink": "https://fuo.edu.ng/"
+    },
+    {
+        "name": "Glorious Vision University",
+        "abbreviation": "gvu",
+        "websitelink": "https://sau.edu.ng/"
+    },
+    {
+        "name": "Godfrey Okoye University",
+        "abbreviation": "gouni",
+        "websitelink": "https://www.gouni.edu.ng/"
+    },
+    {
+        "name": "Gombe State University",
+        "abbreviation": "gsu",
+        "websitelink": "Gombe State University"
+    },
+    {
+        "name": "Gombe State University of Science and Technology",
+        "abbreviation": "gsust",
+        "websitelink": ""
+    },
+    {
+        "name": "Gregory University, Uturu",
+        "abbreviation": "guu",
+        "websitelink": "http://gregoryuniversityuturu.edu.ng/"
+    },
+    {
+        "name": "Hallmark University, Ijebu-Itele",
+        "abbreviation": "hallmark",
+        "websitelink": "https://hallmarkuniversity.edu.ng/"
+    },
+    {
+        "name": "Hezekiah University",
+        "abbreviation": "hu",
+        "websitelink": "https://www.hezekiah.edu.ng/"
+    },
+    {
+        "name": "Ibrahim Badamasi Babangida University",
+        "abbreviation": "ibbul",
+        "websitelink": "http://portals.ibbu.edu.ng/ugreg/?q=admchecking2"
+    },
+    {
+        "name": "Igbinedion University Okada",
+        "abbreviation": "iuo",
+        "websitelink": "https://iuokada.edu.ng/"
+    },
+    {
+        "name": "Ignatius Ajuru University of Education",
+        "abbreviation": "iaue",
+        "websitelink": "Ignatius Ajuru University of Education"
+    },
+    {
+        "name": "Imo State University",
+        "abbreviation": "imsu",
+        "websitelink": "https://imsu.edu.ng/"
+    },
+    {
+        "name": "Joseph Ayo Babalola University",
+        "abbreviation": "jabu",
+        "websitelink": "https://jabu.edu.ng/"
+    },
+    {
+        "name": "Kaduna State University",
+        "abbreviation": "kasu",
+        "websitelink": ""
+    },
+    {
+        "name": "Kano University of Science and Technology'",
+        "abbreviation": "kust",
+        "websitelink": ""
+    },
+    {
+        "name": "Kebbi State University of Science and Technology",
+        "abbreviation": "ksusta",
+        "websitelink": ""
+    },
+    {
+        "name": "Kings University",
+        "abbreviation": "ku",
+        "websitelink": ""
+    },
+    {
+        "name": "Kogi State University",
+        "abbreviation": "ksu",
+        "websitelink": ""
+    },
+    {
+        "name": "Kola Daisi University",
+        "abbreviation": "kdu",
+        "websitelink": ""
+    },
+    {
+        "name": "Kwara State University",
+        "abbreviation": "kwasu",
+        "websitelink": ""
+    },
+    {
+        "name": "Kwararafa University, Wukari",
+        "abbreviation": "kwu",
+        "websitelink": ""
+    },
+    {
+        "name": "Ladoke Akintola University of Technology",
+        "abbreviation": "lautech",
+        "websitelink": ""
+    },
+    {
+        "name": "Lagos State University",
+        "abbreviation": "lasu",
+        "websitelink": ""
+    },
+    {
+        "name": "Landmark University",
+        "abbreviation": "lmu",
+        "websitelink": ""
+    },
+    {
+        "name": "Lead City University",
+        "abbreviation": "lcu",
+        "websitelink": ""
+    },
+    {
+        "name": "Legacy University, Okija",
+        "abbreviation": "luo",
+        "websitelink": ""
+    },
+    {
+        "name": "Madonna University, Okija",
+        "abbreviation": "muo",
+        "websitelink": ""
+    },
+    {
+        "name": "Mcpherson University",
+        "abbreviation": "McU",
+        "websitelink": ""
+    },
+    {
+        "name": "Michael and Cecilia Ibru University",
+        "abbreviation": "mciu",
+        "websitelink": ""
+    },
+    {
+        "name": "Michael Okpara University of Agriculture",
+        "abbreviation": "mouau",
+        "websitelink": ""
+    },
+    {
+        "name": "Modibbo Adama University of Technology",
+        "abbreviation": "mautech",
+        "websitelink": ""
+    },
+    {
+        "name": "Moshood Abiola University of Science and Technology, Abeokuta",
+        "abbreviation": "maustech",
+        "websitelink": ""
+    },
+    {
+        "name": "Mountain Top University",
+        "abbreviation": "mtu",
+        "websitelink": ""
+    },
+    {
+        "name": "Nasarawa State University",
+        "abbreviation": "nsuk",
+        "websitelink": ""
+    },
+    {
+        "name": "Niger Delta University",
+        "abbreviation": "ndu",
+        "websitelink": ""
+    },
+    {
+        "name": "Nigerian Maritime University, Okerenkoko",
+        "abbreviation": "nmu",
+        "websitelink": ""
+    },
+    {
+        "name": "Nile University of Nigeria",
+        "abbreviation": "nile",
+        "websitelink": ""
+    },
+    {
+        "name": "Nnamdi Azikiwe University",
+        "abbreviation": "unizik",
+        "websitelink": ""
+    },
+    {
+        "name": "Novena University",
+        "abbreviation": "novena",
+        "websitelink": ""
+    },
+    {
+        "name": "Obafemi Awolowo University",
+        "abbreviation": "oau",
+        "websitelink": ""
+    },
+    {
+        "name": "Obong University",
+        "abbreviation": "ouo",
+        "websitelink": ""
+    },
+    {
+        "name": "Oduduwa University",
+        "abbreviation": "oui",
+        "websitelink": ""
+    },
+    {
+        "name": "Olabisi Onabanjo University",
+        "abbreviation": "oou",
+        "websitelink": ""
+    },
+    {
+        "name": "Ondo State University of Science and Technology",
+        "abbreviation": "osutech",
+        "websitelink": ""
+    },
+    {
+        "name": "PAMO University of Medical Sciences",
+        "abbreviation": "pums",
+        "websitelink": ""
+    },
+    {
+        "name": "Pan-Atlantic University",
+        "abbreviation": "pau",
+        "websitelink": ""
+    },
+    {
+        "name": "Paul University",
+        "abbreviation": "pua",
+        "websitelink": ""
+    },
+    {
+        "name": "Plateau State University",
+        "abbreviation": "plasu",
+        "websitelink": ""
+    },
+    {
+        "name": "Precious Cornerstone University",
+        "abbreviation": "pcu",
+        "websitelink": ""
+    },
+    {
+        "name": "Redeemer's University",
+        "abbreviation": "run",
+        "websitelink": ""
+    },
+    {
+        "name": "Renaissance University",
+        "abbreviation": "rue",
+        "websitelink": ""
+    },
+    {
+        "name": "Rhema University",
+        "abbreviation": "ru",
+        "websitelink": ""
+    },
+    {
+        "name": "Ritman University",
+        "abbreviation": "ru",
+        "websitelink": ""
+    },
+    {
+        "name": "Rivers State University",
+        "abbreviation": "rsu",
+        "websitelink": ""
+    },
+    {
+        "name": "Salem University",
+        "abbreviation": "su",
+        "websitelink": ""
+    },
+    {
+        "name": "Skyline University Nigeria",
+        "abbreviation": "sun",
+        "websitelink": ""
+    },
+    {
+        "name": "Sokoto State University",
+        "abbreviation": "ssu",
+        "websitelink": ""
+    },
+    {
+        "name": "Southwestern University, Nigeria",
+        "abbreviation": "sun",
+        "websitelink": ""
+    },
+    {
+        "name": "Spiritan University, Nneochi",
+        "abbreviation": "sun",
+        "websitelink": ""
+    },
+    {
+        "name": "Sule Lamido University",
+        "abbreviation": "slu",
+        "websitelink": ""
+    },
+    {
+        "name": "Summit University Offa",
+        "abbreviation": "suo",
+        "websitelink": ""
+    },
+    {
+        "name": "Tai Solarin University of Education",
+        "abbreviation": "tasued",
+        "websitelink": ""
+    },
+    {
+        "name": "Tansian University",
+        "abbreviation": "tanu",
+        "websitelink": ""
+    },
+    {
+        "name": "Taraba State University",
+        "abbreviation": "tsu",
+        "websitelink": ""
+    },
+    {
+        "name": "The Technical University",
+        "abbreviation": "ttu",
+        "websitelink": ""
+    },
+    {
+        "name": "Umaru Musa Yar'Adua University",
+        "abbreviation": "umyu",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Abuja",
+        "abbreviation": "uniabuja",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Africa",
+        "abbreviation": "uoa",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Agriculture, Makurdi",
+        "abbreviation": "uam",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Benin",
+        "abbreviation": "uniben",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Calabar",
+        "abbreviation": "unical",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Ibadan",
+        "abbreviation": "ui",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Ilorin",
+        "abbreviation": "uni-ilorin",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Jos",
+        "abbreviation": "unijos",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Lagos",
+        "abbreviation": "unilag",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Maiduguri",
+        "abbreviation": "unimaid",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Medical Sciences",
+        "abbreviation": "ucms",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Mkar",
+        "abbreviation": "umm",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Nigeria",
+        "abbreviation": "unn",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Port Harcourt",
+        "abbreviation": "uniport",
+        "websitelink": ""
+    },
+    {
+        "name": "University of Uyo",
+        "abbreviation": "uniuyo",
+        "websitelink": ""
+    },
+    {
+        "name": "Usmanu Danfodio University",
+        "abbreviation": "udus",
+        "websitelink": ""
+    },
+    {
+        "name": "Veritas University",
+        "abbreviation": "vu",
+        "websitelink": ""
+    },
+    {
+        "name": "Wellspring University",
+        "abbreviation": "wu",
+        "websitelink": ""
+    },
+    {
+        "name": "Wesley University of Science and Technology",
+        "abbreviation": "wusto",
+        "websitelink": ""
+    },
+    {
+        "name": "Western Delta University",
+        "abbreviation": "wdu",
+        "websitelink": ""
+    },
+    {
+        "name": "Yobe State University",
+        "abbreviation": "ysu",
+        "websitelink": ""
+    },
+    {
+        "name": "Yusuf Maitama Sule University Kano",
+        "abbreviation": "yumsuk",
+        "websitelink": ""
+    },
+    {
+        "name": "Zamfara State University",
+        "abbreviation": "zsu",
+        "websitelink": ""
+    }
+]
