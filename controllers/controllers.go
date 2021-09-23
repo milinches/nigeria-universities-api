@@ -14,17 +14,17 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	w.Header().Set("Content-Type", "application/json")
-	var newUni []models.NewUniversities
+	var newUniversity []models.NewUniversities
 
 	for _, uni := range models.JsonToStruct() {
-		newUni = append(newUni, models.NewUniversities{
-			Name: uni.Name,
-			Abbrv: uni.Abbrv,
+		newUniversity = append(newUniversity, models.NewUniversities{
+			Name:        uni.Name,
+			Abbrv:       uni.Abbrv,
 			WebsiteLink: uni.WebsiteLink,
 		})
 	}
 
-	_ = json.NewEncoder(w).Encode(newUni)
+	_ = json.NewEncoder(w).Encode(newUniversity)
 }
 
 func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
