@@ -7,12 +7,12 @@ import (
 	"os"
 )
 
-func JsonToStruct() []Universities{
+func JsonToStruct() []Universities {
 	jsonFile, _ := os.Open("models.json")
 	defer jsonFile.Close()
 
 	jsonList, err := ioutil.ReadAll(jsonFile)
-	if err != nil{
+	if err != nil {
 		log.Fatal(err.Error())
 	}
 
