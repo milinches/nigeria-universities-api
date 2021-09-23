@@ -9,13 +9,14 @@ import (
 
 func GetUniversities(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
-	var newUniversity []Ne
+	var newUniversity []NewUniversities
 
 	for _, uni := range ObjMethod() {
 		newUniversity = append(newUniversity, NewUniversities{
 			Name:        uni.Name,
 			Abbrv:       uni.Abbrv,
 			WebsiteLink: uni.WebsiteLink,
+			Logo:        "Please, I'm tired",
 		})
 	}
 
@@ -25,8 +26,7 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	params := mux.Vars(r)
-	// vars := []models.NewUniversities{}
-
+	
 	for _, getItem := range ObjMethod() {
 		if getItem.Abbrv == params["abbreviation"] {
 			json.NewEncoder(w).Encode(getItem)

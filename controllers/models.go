@@ -1,10 +1,9 @@
-package models
+package controllers
 
 import (
 	"encoding/json"
 	"io/ioutil"
 	"log"
-	"os"
 )
 
 type Universities struct {
@@ -16,15 +15,13 @@ type Universities struct {
 // New Universities structure
 type NewUniversities struct {
 	Name        string `json:"name"`
-	Abbrv       string `json:"abbrev"`
-	WebsiteLink string `json:"weblink"`
+	Abbrv       string `json:"abbreviation"`
+	WebsiteLink string `json:"websitelink"`
+	Logo        string `json:"logo"`
 }
 
 func ObjMethod() []Universities {
-	jsonFile, _ := os.Open("")
-	defer jsonFile.Close()
-
-	jsonList, err := ioutil.ReadAll(jsonFile)
+	jsonList, err := ioutil.ReadFile("controllers/models.json")
 	if err != nil {
 		log.Fatal(err.Error())
 	}
