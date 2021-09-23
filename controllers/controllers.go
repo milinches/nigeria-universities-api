@@ -16,7 +16,6 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 			Name:        uni.Name,
 			Abbrv:       uni.Abbrv,
 			WebsiteLink: uni.WebsiteLink,
-			Logo:        "Please, I'm tired",
 		})
 	}
 
@@ -26,7 +25,7 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	params := mux.Vars(r)
-	
+
 	for _, getItem := range ObjMethod() {
 		if getItem.Abbrv == params["abbreviation"] {
 			json.NewEncoder(w).Encode(getItem)
