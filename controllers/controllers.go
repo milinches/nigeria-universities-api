@@ -8,6 +8,7 @@ import (
 )
 
 func GetUniversities(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Header().Set("Content-Type", "application/json")
 	var newUniversity []NewUniversities
 
@@ -23,6 +24,7 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 }
 
 func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Header().Set("Content-Type", "application/json")
 	params := mux.Vars(r)
 
