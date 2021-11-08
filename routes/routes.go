@@ -7,7 +7,7 @@ import (
 
 func NewRouter() *mux.Router {
 	router := mux.NewRouter().StrictSlash(true)
-	router.HandleFunc("/api", controllers.GetUniversities).Methods("GET")
-	router.HandleFunc("/api/{abbreviation}", controllers.GetSpecificUniversity).Methods("GET")
+	router.HandleFunc("/api/v1", controllers.GetUniversities).Methods("GET", "OPTIONS")
+	router.HandleFunc("/api/v1/{abbreviation}", controllers.GetSpecificUniversity).Methods("GET", "OPTIONS")
 	return router
 }
