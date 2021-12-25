@@ -20,7 +20,7 @@ func main() {
 		log.Fatal("No .env file found")
 	}
 	router := routes.NewRouter()
-	log.Println("Starting server at :8000")
+	log.Println("Starting server at :" + port)
 	err := http.ListenAndServe(":"+port, router)
 	log.Fatal(err)
 }

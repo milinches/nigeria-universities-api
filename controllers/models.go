@@ -7,16 +7,16 @@ import (
 )
 
 type Universities struct {
-	Name        string `json:"name"`
-	Abbrv       string `json:"abbreviation"`
-	WebsiteLink string `json:"websitelink"`
+	Name         string `json:"name"`
+	Abbreviation string `json:"abbreviation"`
+	WebsiteLink  string `json:"website_link"`
 }
 
-// New Universities structure
+// NewUniversities New Universities structure
 type NewUniversities struct {
-	Name        string `json:"name"`
-	Abbrv       string `json:"abbreviation"`
-	WebsiteLink string `json:"websitelink"`
+	Name         string `json:"name"`
+	Abbreviation string `json:"abbreviation"`
+	WebsiteLink  string `json:"website_link"`
 }
 
 func ObjMethod() []Universities {
@@ -25,7 +25,7 @@ func ObjMethod() []Universities {
 		log.Fatal(err.Error())
 	}
 
-	data := []Universities{}
+	var data []Universities
 
 	_ = json.Unmarshal(jsonList, &data)
 

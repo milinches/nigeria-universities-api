@@ -14,9 +14,9 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 
 	for _, uni := range ObjMethod() {
 		newUniversity = append(newUniversity, NewUniversities{
-			Name:        uni.Name,
-			Abbrv:       uni.Abbrv,
-			WebsiteLink: uni.WebsiteLink,
+			Name:         uni.Name,
+			Abbreviation: uni.Abbreviation,
+			WebsiteLink:  uni.WebsiteLink,
 		})
 	}
 
@@ -29,10 +29,10 @@ func GetSpecificUniversity(w http.ResponseWriter, r *http.Request) {
 	params := mux.Vars(r)
 
 	for _, getItem := range ObjMethod() {
-		if getItem.Abbrv == params["abbreviation"] {
+		if getItem.Abbreviation == params["abbreviation"] {
 			json.NewEncoder(w).Encode(getItem)
 			return
 		}
 	}
-	w.Write([]byte("Sorry, endpoint not available 😴"))
+	w.Write([]byte("Sorry, endpoint not available."))
 }
