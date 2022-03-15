@@ -15,12 +15,11 @@ func main() {
 		log.Fatal("Error loading .env file")
 	}
 
-	port, exist := os.LookupEnv("PORT")
-	if !exist {
-		log.Fatal("No .env file found")
-	}
+	port := os.Getenv("PORT")
+
 	router := routes.NewRouter()
-	log.Println("Starting server at :" + port)
+
+	log.Println("Starting server...")
 	err := http.ListenAndServe(":"+port, router)
 	log.Fatal(err)
 }
