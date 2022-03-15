@@ -12,7 +12,6 @@ type Universities struct {
 	WebsiteLink  string `json:"website_link"`
 }
 
-// NewUniversities New Universities structure
 type NewUniversities struct {
 	Name         string `json:"name"`
 	Abbreviation string `json:"abbreviation"`
@@ -20,7 +19,7 @@ type NewUniversities struct {
 }
 
 func ObjMethod() []Universities {
-	jsonList, err := ioutil.ReadFile("controllers/models.json")
+	jsonList, err := ioutil.ReadFile("models/models.json")
 	if err != nil {
 		log.Fatal(err.Error())
 	}
