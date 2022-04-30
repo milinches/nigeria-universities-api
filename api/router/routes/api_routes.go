@@ -16,6 +16,11 @@ type (
 
 var apiRoutes = []Route{
 	{
+		URL: "/",
+		Method: http.MethodGet,
+		Handler: controllers.Welcome,
+	},
+	{
 		URL:     "/api/v1",
 		Method:  http.MethodGet,
 		Handler: controllers.GetUniversities,

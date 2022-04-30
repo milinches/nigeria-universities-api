@@ -9,6 +9,20 @@ import (
 	models "github.com/milinches/nigeria-universities-api/api/models"
 )
 
+func Welcome(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Content-Type", "application/json")
+
+	hello := map[string]string {
+		"status": "200",
+		"title": "nigeria universities api",
+		"msg": "help improve this project by open a PR, thanks. 🥰",
+	}
+	marshallObj, _ := json.MarshalIndent(hello, "", "	")
+
+	w.Write(marshallObj)
+} 
+
 func GetUniversities(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Access-Control-Allow-Origin", "*")
 	w.Header().Set("Content-Type", "application/json")
