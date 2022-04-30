@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	models "github.com/milinches/nigeria-universities-api/models"
+	models "github.com/milinches/nigeria-universities-api/api/models"
 )
 
 func GetUniversities(w http.ResponseWriter, r *http.Request) {
@@ -15,7 +15,7 @@ func GetUniversities(w http.ResponseWriter, r *http.Request) {
 	var newUniversity []models.NewUniversities
 
 	for _, uni := range models.ObjMethod() {
-		newUniversity = append(newUniversity,  models.NewUniversities{
+		newUniversity = append(newUniversity, models.NewUniversities{
 			Name:         uni.Name,
 			Abbreviation: uni.Abbreviation,
 			WebsiteLink:  uni.WebsiteLink,

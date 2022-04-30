@@ -19,7 +19,7 @@ type NewUniversities struct {
 }
 
 func ObjMethod() []Universities {
-	jsonList, err := ioutil.ReadFile("models/models.json")
+	jsonList, err := ioutil.ReadFile("api/models/models.json")
 	if err != nil {
 		log.Fatal(err.Error())
 	}
